@@ -12,3 +12,6 @@
 
 Для визуализации собранных данных я написала скрипт дашборда с несколькими фильтрами. 
 По результатам подготовила презентацию с полученными графиками.
+
+[Ссылка на дашборд](https://public.tableau.com/app/profile/inna.goncharova/viz/Yandex_Project_Goncharova_Inna/Dashboard1?publish=yes)
+
