@@ -15,3 +15,5 @@
 
 [Ссылка на дашборд](https://public.tableau.com/app/profile/inna.goncharova/viz/Yandex_Project_Goncharova_Inna/Dashboard1?publish=yes)
 
+[Ссылка на презентацию](https://disk.yandex.ru/d/4PtGYgn901QyzA)
+
